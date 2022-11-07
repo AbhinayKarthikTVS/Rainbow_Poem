@@ -2,7 +2,6 @@ The rainbow has seven different colours!!
 they are
 red
 orange
-blue
 purple
 yellow
 !!!!!
