@@ -1,4 +1,4 @@
-The rainbow has seven different colours and unicorns!!
+The rainbow has seven different colours and unicorns and ponies!!
 they are
 red
 orange
@@ -7,3 +7,4 @@ purple
 yellow
 !!!!!
 and the unicorn
+ponies are added
